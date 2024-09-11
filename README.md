@@ -1,18 +1,14 @@
 Welcome to my GitHub profile! I'm Matin.
 
----
-
-🚀 **Skills**
+## 🚀 **Skills**
 
 - will update soon
 
----
 
-🌟 **Featured Projects**
+## 🌟 **Featured Projects**
 
 - will update soon
 
----
 
 ## 📫 **Contact Me**
 
