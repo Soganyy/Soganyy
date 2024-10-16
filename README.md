@@ -1,15 +1,5 @@
 Welcome to my GitHub profile! I'm Matin.
 
-## 🚀 **Skills**
-
-- will update soon
-
-
-## 🌟 **Featured Projects**
-
-- will update soon
-
-
 ## 📫 **Contact Me**
 
 - **LinkedIn**: [https://www.linkedin.com/in/matin-mammadli-b05167225/]
