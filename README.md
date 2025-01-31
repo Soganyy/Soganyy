@@ -1,4 +1,4 @@
-Welcome to my GitHub profile! I'm Matin.
+Welcome to my GitHub profile! I'm Matin. A software engineer who is passionate about learning and creating.
 
 - **Website**: [https://sogan.space/]
 - **LinkedIn**: [https://www.linkedin.com/in/matin-mammadli-b05167225/]
