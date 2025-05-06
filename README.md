@@ -1,11 +1,5 @@
 Welcome to my GitHub profile! I'm Matin. A software engineer who is passionate about learning and creating.
-
-- **Website**: [https://sogan.space/]
-- **LinkedIn**: [https://www.linkedin.com/in/matin-mammadli-b05167225/]
-- **Instagram**: [https://www.instagram.com/soganyy/]
-- **Email**: [matinmammadli0420@gmail.com]
-
----
+More about me: sogan.space 
 
 Feel free to explore my repositories and reach out if you’d like to connect or collaborate!
 
